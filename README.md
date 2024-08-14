@@ -1,1 +1,1 @@
-# Modelo Blender do Personagem do VHLab
+# Modelo Blender do Personagem Vhlabito
